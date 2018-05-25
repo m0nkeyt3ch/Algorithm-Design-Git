@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: rbgame_g.apk
+compressionType: false
+doNotCompress:
+- arsc
+- txt
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '10'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '94'
+  versionName: '0.94'

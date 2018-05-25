@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="choose">res/menu/choose.xml</menu>
+    <menu name="game">res/menu/game.xml</menu>
+    <menu name="help">res/menu/help.xml</menu>
+    <menu name="welcome">res/menu/welcome.xml</menu>
+</resources>

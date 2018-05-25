@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="boxblue">res/drawable-hdpi/boxblue.png</drawable>
+    <drawable name="boxgreen">res/drawable-hdpi/boxgreen.png</drawable>
+    <drawable name="dot1">res/drawable-hdpi/dot1.jpg</drawable>
+    <drawable name="dot2">res/drawable-hdpi/dot2.jpg</drawable>
+    <drawable name="dot3">res/drawable-hdpi/dot3.jpg</drawable>
+    <drawable name="fire1">res/drawable-hdpi/fire1.png</drawable>
+    <drawable name="fire2">res/drawable-hdpi/fire2.png</drawable>
+    <drawable name="ic_launcher">res/drawable-mdpi/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-hdpi/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-xhdpi/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-xxhdpi/ic_launcher.png</drawable>
+    <drawable name="lock1">res/drawable-hdpi/lock1.jpg</drawable>
+    <drawable name="lock2">res/drawable-hdpi/lock2.jpg</drawable>
+    <drawable name="lock3">res/drawable-hdpi/lock3.jpg</drawable>
+    <drawable name="match">res/drawable-hdpi/match.png</drawable>
+    <drawable name="p1">res/drawable-hdpi/p1.jpg</drawable>
+    <drawable name="p2">res/drawable-hdpi/p2.jpg</drawable>
+    <drawable name="p3">res/drawable-hdpi/p3.jpg</drawable>
+    <drawable name="p4">res/drawable-hdpi/p4.jpg</drawable>
+    <drawable name="redstar">res/drawable-hdpi/redstar.png</drawable>
+    <drawable name="yellowstar">res/drawable-hdpi/yellowstar.png</drawable>
+</resources>
